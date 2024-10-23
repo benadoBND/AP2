@@ -1,0 +1,14 @@
+S:\Diogo\L. Fogaça\AP2\bin\Debug\net8.0\AP2.exe
+S:\Diogo\L. Fogaça\AP2\bin\Debug\net8.0\AP2.deps.json
+S:\Diogo\L. Fogaça\AP2\bin\Debug\net8.0\AP2.runtimeconfig.json
+S:\Diogo\L. Fogaça\AP2\bin\Debug\net8.0\AP2.dll
+S:\Diogo\L. Fogaça\AP2\bin\Debug\net8.0\AP2.pdb
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.GeneratedMSBuildEditorConfig.editorconfig
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.AssemblyInfoInputs.cache
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.AssemblyInfo.cs
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.csproj.CoreCompileInputs.cache
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.dll
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\refint\AP2.dll
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.pdb
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\AP2.genruntimeconfig.cache
+S:\Diogo\L. Fogaça\AP2\obj\Debug\net8.0\ref\AP2.dll
